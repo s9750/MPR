@@ -1,4 +1,4 @@
-Witam na moim githubie JAVA PROJECT.
+Witam na moim githubie.
 
 Są dwa projekty, które mnie interesują.
 

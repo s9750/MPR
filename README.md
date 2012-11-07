@@ -4,7 +4,9 @@ Są dwa projekty, które mnie interesują.
 
 Jeszcze nie zdecydowałem który wybiore :)
 
+
 Pierwszy projekt:
+
 Stworzenie systemu dla firmy zajmującej się:
 naprawami sprzętu elektronicznego,
 wymianą opgrogramowania ,
@@ -35,6 +37,7 @@ Zakres systemu (funkcjonalność)
 •	Baza danych klientów z historią dokonanych napraw
 
 •	Możliwość tworzenia backupów bazy danych
+
 
 Drugi projekt:
 

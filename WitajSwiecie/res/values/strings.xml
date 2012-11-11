@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">AdriansApp</string>
+    <string name="hello_world">Hi Mothafucka!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_witaj_swiecie">Disco</string>
+    <string name="button_1">Please Click Me!</string>
+    <string name="button_2">Stop</string>
+    <string name="ImageDescription">Android</string>
+	<string name="tired">Owww tiread already?</string>
+	<string name="yes">Leave me alone!</string>
+	<string name="no">No!</string>
+</resources>
